@@ -252,5 +252,247 @@
          "timestamp":"2016-11-30",
          "place":"Thang"
       }
+   ],
+   "testcases":[
+      {
+         "Device":"LASNV005CC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:16",
+         "Total TC":18,
+         "Pass":0,
+         "Fail":18
+      },
+      {
+         "Device":"DALTX333AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases Dark Sites",
+         "Duration":"0:01:51",
+         "Total TC":17,
+         "Pass":15,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV036BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:07",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV025BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:04",
+         "Total TC":18,
+         "Pass":15,
+         "Fail":3
+      },
+      {
+         "Device":"LASNV042BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:10",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV041BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:00",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV034CC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:06",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV015BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:11",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV028BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:01",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV027AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases Dark Sites",
+         "Duration":"0:01:06",
+         "Total TC":17,
+         "Pass":15,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV053AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:07",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV001DC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:07",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV048AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:52",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV046AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:03",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV013AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:33",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV012BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:03",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV058BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:47",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV043BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases Dark Sites",
+         "Duration":"0:00:58",
+         "Total TC":17,
+         "Pass":15,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV033BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:05",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV101BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:33",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV030BC-CS00-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:24",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV049AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:02",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV182AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases Dark Sites",
+         "Duration":"0:00:58",
+         "Total TC":17,
+         "Pass":15,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV168AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:48",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"DALTX363AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases Dark Sites",
+         "Duration":"0:01:35",
+         "Total TC":17,
+         "Pass":16,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV151AC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:02",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV020BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:07",
+         "Total TC":18,
+         "Pass":16,
+         "Fail":2
+      },
+      {
+         "Device":"LASNV063BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:52",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV032BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:01",
+         "Total TC":18,
+         "Pass":17,
+         "Fail":1
+      },
+      {
+         "Device":"LASNV062BC-CS000-CSR001",
+         "Suite Name":"Dish NRFU Testcases",
+         "Duration":"0:01:16",
+         "Total TC":18,
+         "Pass":15,
+         "Fail":3
+      }
    ]
 }
