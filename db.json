@@ -73,52 +73,10 @@
    ],
    "places_visited":[
       {
-         "id":7,
-         "user_id":3,
-         "timestamp":"2017-08-23",
-         "place":"Vikarabad"
-      },
-      {
-         "id":17,
-         "user_id":6,
-         "timestamp":"2019-05-16",
-         "place":"Warora"
-      },
-      {
-         "id":34,
+         "id":41,
          "user_id":9,
-         "timestamp":"2016-08-02",
-         "place":"Wanparti"
-      },
-      {
-         "id":27,
-         "user_id":7,
-         "timestamp":"2019-12-04",
-         "place":"Vriddhachalam"
-      },
-      {
-         "id":24,
-         "user_id":7,
-         "timestamp":"2016-08-17",
-         "place":"Vettaikkaranpudur"
-      },
-      {
-         "id":15,
-         "user_id":5,
-         "timestamp":"2016-09-25",
-         "place":"Vijapur"
-      },
-      {
-         "id":25,
-         "user_id":7,
-         "timestamp":"2019-08-18",
-         "place":"Vandavasi"
-      },
-      {
-         "id":37,
-         "user_id":9,
-         "timestamp":"2015-01-27",
-         "place":"Vite"
+         "timestamp":"2017-11-03",
+         "place":"Vandalur"
       },
       {
          "id":9,
@@ -127,16 +85,22 @@
          "place":"Wai"
       },
       {
-         "id":31,
-         "user_id":8,
-         "timestamp":"2018-08-20",
-         "place":"Yairipok"
+         "id":40,
+         "user_id":9,
+         "timestamp":"2016-04-03",
+         "place":"Warora"
       },
       {
-         "id":20,
+         "id":17,
          "user_id":6,
-         "timestamp":"2015-07-18",
-         "place":"Warangal"
+         "timestamp":"2019-05-16",
+         "place":"Warora"
+      },
+      {
+         "id":37,
+         "user_id":9,
+         "timestamp":"2015-01-27",
+         "place":"Vite"
       },
       {
          "id":19,
@@ -145,160 +109,16 @@
          "place":"Zafarabad"
       },
       {
-         "id":1,
-         "user_id":1,
-         "timestamp":"2017-01-06",
-         "place":"Vayalar"
-      },
-      {
-         "id":22,
-         "user_id":7,
-         "timestamp":"2016-07-08",
-         "place":"Wellington"
-      },
-      {
-         "id":35,
-         "user_id":9,
-         "timestamp":"2017-02-02",
-         "place":"Ziro"
-      },
-      {
-         "id":36,
-         "user_id":9,
-         "timestamp":"2016-02-06",
-         "place":"Waraseoni"
-      },
-      {
-         "id":41,
-         "user_id":9,
-         "timestamp":"2017-11-03",
-         "place":"Vandalur"
-      },
-      {
-         "id":42,
-         "user_id":9,
-         "timestamp":"2018-06-15",
-         "place":"Vansada"
-      },
-      {
-         "id":6,
-         "user_id":2,
-         "timestamp":"2015-08-16",
-         "place":"Yairipok"
-      },
-      {
-         "id":10,
-         "user_id":5,
-         "timestamp":"2017-11-13",
-         "place":"Wellington"
-      },
-      {
-         "id":29,
+         "id":30,
          "user_id":8,
-         "timestamp":"2019-10-06",
-         "place":"Yellandu"
+         "timestamp":"2017-02-17",
+         "place":"Yelbarga"
       },
       {
-         "id":45,
-         "user_id":10,
-         "timestamp":"2019-05-22",
-         "place":"Vansada"
-      },
-      {
-         "id":23,
-         "user_id":7,
-         "timestamp":"2017-11-04",
-         "place":"Yelahanka"
-      },
-      {
-         "id":39,
-         "user_id":9,
-         "timestamp":"2016-04-11",
-         "place":"Yavatmal"
-      },
-      {
-         "id":5,
-         "user_id":2,
-         "timestamp":"2015-04-19",
-         "place":"Wadi"
-      },
-      {
-         "id":40,
-         "user_id":9,
-         "timestamp":"2016-04-03",
-         "place":"Warora"
-      },
-      {
-         "id":46,
-         "user_id":10,
-         "timestamp":"2015-01-21",
-         "place":"Yellandu"
-      },
-      {
-         "id":3,
-         "user_id":1,
-         "timestamp":"2016-11-30",
-         "place":"Thang"
-      },
-      {
-         "id":32,
-         "user_id":8,
-         "timestamp":"2016-09-16",
-         "place":"Vasco da Gama"
-      },
-      {
-         "id":12,
-         "user_id":5,
-         "timestamp":"2015-03-18",
-         "place":"Vizianagaram"
-      },
-      {
-         "id":28,
-         "user_id":8,
-         "timestamp":"2016-01-03",
-         "place":"Vansada"
-      },
-      {
-         "id":26,
-         "user_id":7,
-         "timestamp":"2016-11-11",
-         "place":"Yelahanka"
-      },
-      {
-         "id":38,
-         "user_id":9,
-         "timestamp":"2018-06-26",
-         "place":"Viraganur"
-      },
-      {
-         "id":4,
-         "user_id":1,
-         "timestamp":"2018-01-08",
-         "place":"Vettavalam"
-      },
-      {
-         "id":21,
+         "id":20,
          "user_id":6,
-         "timestamp":"2015-05-18",
-         "place":"Yanam"
-      },
-      {
-         "id":16,
-         "user_id":6,
-         "timestamp":"2018-12-09",
-         "place":"Viraganur"
-      },
-      {
-         "id":44,
-         "user_id":10,
-         "timestamp":"2015-04-24",
-         "place":"Varangaon"
-      },
-      {
-         "id":8,
-         "user_id":4,
-         "timestamp":"2018-07-16",
-         "place":"Vandavasi"
+         "timestamp":"2015-07-18",
+         "place":"Warangal"
       },
       {
          "id":13,
@@ -307,22 +127,28 @@
          "place":"Yairipok"
       },
       {
-         "id":30,
+         "id":32,
          "user_id":8,
-         "timestamp":"2017-02-17",
-         "place":"Yelbarga"
+         "timestamp":"2016-09-16",
+         "place":"Vasco da Gama"
       },
       {
-         "id":43,
-         "user_id":10,
-         "timestamp":"2019-01-07",
-         "place":"Wokha"
-      },
-      {
-         "id":33,
-         "user_id":8,
-         "timestamp":"2018-04-19",
+         "id":5,
+         "user_id":2,
+         "timestamp":"2015-04-19",
          "place":"Wadi"
+      },
+      {
+         "id":29,
+         "user_id":8,
+         "timestamp":"2019-10-06",
+         "place":"Yellandu"
+      },
+      {
+         "id":35,
+         "user_id":9,
+         "timestamp":"2017-02-02",
+         "place":"Ziro"
       },
       {
          "id":11,
@@ -331,22 +157,100 @@
          "place":"Wani"
       },
       {
-         "id":18,
-         "user_id":6,
-         "timestamp":"2019-04-28",
-         "place":"Yelahanka"
+         "id":38,
+         "user_id":9,
+         "timestamp":"2018-06-26",
+         "place":"Viraganur"
       },
       {
-         "id":14,
+         "id":33,
+         "user_id":8,
+         "timestamp":"2018-04-19",
+         "place":"Wadi"
+      },
+      {
+         "id":21,
+         "user_id":6,
+         "timestamp":"2015-05-18",
+         "place":"Yanam"
+      },
+      {
+         "id":12,
          "user_id":5,
-         "timestamp":"2015-09-19",
-         "place":"Visakhapatnam"
+         "timestamp":"2015-03-18",
+         "place":"Vizianagaram"
       },
       {
          "id":2,
          "user_id":1,
          "timestamp":"2017-10-22",
          "place":"Warora"
+      },
+      {
+         "id":44,
+         "user_id":10,
+         "timestamp":"2015-04-24",
+         "place":"Varangaon"
+      },
+      {
+         "id":36,
+         "user_id":9,
+         "timestamp":"2016-02-06",
+         "place":"Waraseoni"
+      },
+      {
+         "id":27,
+         "user_id":7,
+         "timestamp":"2019-12-04",
+         "place":"Vriddhachalam"
+      },
+      {
+         "id":25,
+         "user_id":7,
+         "timestamp":"2019-08-18",
+         "place":"Vandavasi"
+      },
+      {
+         "id":28,
+         "user_id":8,
+         "timestamp":"2016-01-03",
+         "place":"Vansada"
+      },
+      {
+         "id":34,
+         "user_id":9,
+         "timestamp":"2016-08-02",
+         "place":"Wanparti"
+      },
+      {
+         "id":26,
+         "user_id":7,
+         "timestamp":"2016-11-11",
+         "place":"Yelahanka"
+      },
+      {
+         "id":8,
+         "user_id":4,
+         "timestamp":"2018-07-16",
+         "place":"Vandavasi"
+      },
+      {
+         "id":10,
+         "user_id":5,
+         "timestamp":"2017-11-13",
+         "place":"Wellington"
+      },
+      {
+         "id":23,
+         "user_id":7,
+         "timestamp":"2017-11-04",
+         "place":"Yelahanka"
+      },
+      {
+         "id":3,
+         "user_id":1,
+         "timestamp":"2016-11-30",
+         "place":"Thang"
       }
    ]
 }
